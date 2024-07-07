@@ -1,0 +1,217 @@
+.slide{
+    background-color: black;
+    color: white;
+    
+    font-size:medium;
+}
+.account{
+    margin-right: 10px;
+}
+.cart{
+    margin-right: 50px;
+}
+.input{
+    margin-left: 80px;
+}
+
+.sale{
+    color: #CC4080;
+    font-weight: 600;
+}
+.sale:hover{
+    color: #CC4080;
+}
+.pages{
+    color: black;
+    font-weight: 500;
+}
+.pages:hover{
+    color: gray;
+}
+.ab{
+    color: pink;
+}
+.cd{
+    margin-top: 20%;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 20%;
+}
+.ef{
+    margin-top: 50px;
+    height: 170px;
+    width: 170px;
+    border: 50%;
+    border-radius: 50%;
+    color: black;
+}
+.az{
+    text-align: center;
+}
+.txt{
+    text-align: center;
+}
+.img{
+    margin-top: 6%;
+
+}
+.fa{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+
+.as{
+    text-align: center;
+    margin-top: 2%;
+    }
+.wb{
+    height:350px;
+    width: 280px;
+
+}
+
+.sparate{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    margin-top: 6%;
+    
+}
+
+.img1{
+    overflow: hidden;
+    height: auto;
+    width: 300px;
+    margin-left:3%;
+   
+    
+}
+
+.card {
+    overflow: hidden;
+}
+
+.img2{
+ 
+    height: 400px;
+    width: 320px;
+    transition: transform 0.5s ease;
+}
+
+.seperate{
+    position: relative;
+    overflow: hidden;
+}
+  
+.left {
+    position: relative;
+}
+
+.left > h1,h2,h3,h4,h5,h6 {
+    line-break: anywhere;
+}
+
+.left > p {
+    line-break: anywhere;
+    margin: 0;
+}
+
+.butn { 
+    position: relative;
+    bottom: 0;
+    right: -150px;
+    opacity: 0;
+    height: 40px;
+    width: 106px;
+    background-color: black;
+    font-weight: 600;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    text-decoration: none;
+    transition: opacity 0.8s ease;
+}
+
+.seperate:hover button {
+        display: block; /* On :hover of div show button */
+}
+
+ard:hover button{
+    display: block; /* On :hover of div show button */
+}
+
+.img1:hover button{
+    opacity: 1;
+    transition: opacity 0.8s ease;
+}
+
+.card:hover .img2 {
+    transform: scale(1.1);
+}
+.ts{
+    margin-top: 35%;
+    font-size: 20px;
+}
+.ew{
+    color: #CC4080;
+    margin-top: 0%;
+    font-size: 15px;
+}
+.we{
+    margin-top: 20%;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+.sa{
+    text-align: center;
+}
+.image{
+    margin-top: 5%;
+    height: 400px;
+    width: 320px;
+    transition: transform 0.5s ease;
+
+}
+.right{
+    margin-left: 60%;
+    
+}
+.button{
+    display: none;
+}
+.wb{
+    transition: 1s;
+}
+.wb:hover{
+ transform: scale(-1.4s);
+  width: 250px;
+  height: auto;
+}
+.fot{
+    margin-top: 5%;
+    height: 350px;
+    background-color: aliceblue;
+}
+.FT{
+    margin-top: 3%;
+
+}
+.input{
+    border: none;
+  margin-left: 5%;
+
+}
+.btn{
+    background-color: black;
+    color: beige;
+}
+.fost{
+    outline: 2px solid black;
+    width: 300px;
+    outline-offset: 5px;
+    border-radius: 5px;
+}

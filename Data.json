@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "image":"https://pk.sapphireonline.pk/cdn/shop/files/rtw.webp?v=1703846544&width=200",
+        "name":"Ready to Wear",
+        "discription":"Flat 50% off"
+    },
+    {
+        "id":"2",
+        "image":"https://pk.sapphireonline.pk/cdn/shop/files/unstitched.webp?v=1703846556&width=200",
+        "name":"Unstiched",
+        "discription":"Flat 50% off"
+    },
+    {
+        "id":"3",
+        "image":"https://pk.sapphireonline.pk/cdn/shop/files/men2.jpg?v=1704361669&width=200",
+        "name":"Men's Stiched",
+        "discription":"Flat 50% off"
+    },
+    {
+        "id":"4",
+        "image":"https://pk.sapphireonline.pk/cdn/shop/files/Under_3k.webp?v=1703846572&width=200",
+        "name":"Under Everything",
+        "discription":"Flat 50% off"
+    },
+    {
+        "id":"5",
+        "image":"https://pk.sapphireonline.pk/cdn/shop/files/home_2dc9af64-ca28-4178-956b-cb6bc0e587f3.webp?v=1703846583&width=200",
+        "name":"Home",
+        "discription":"Flat 50% off"
+    }
+]
